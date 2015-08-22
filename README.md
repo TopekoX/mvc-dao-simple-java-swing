@@ -1,10 +1,13 @@
-MVC-DAO-Simple
-==============
+MVC-DAO-Simple JAVA SWING
+=========================
 
 MVC DAO Simple java swing
 
-ini adalah contoh project GUI menggunakan Java Swing dengan konsep MVC.
-Project ini dibuat dengan Netbeans IDE 
+ini adalah contoh project simple GUI menggunakan Java Swing dengan konsep MVC.
+Project ini dibuat dengan Netbeans IDE dengan fitur CRUD menggunakan
+database MySQL
+
+ 
 
 semoga bermanfaat.
 
