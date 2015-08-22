@@ -1,11 +1,10 @@
 /*
-* dibuat oleh Ucup Topeko
-* Web: www.timposu.com
-* Email : acobunglon@gmail.com
+* dibuat oleh Ucup Timposu
+* Blog: www.timposu.com
+* Email : ucup.timposu@gmail.com
 * Silahkan kode ini dipelajari dan dikembangkan..
 *
 **/
-
 
 package com.timposu.model.database;
 
@@ -30,7 +29,7 @@ public class ConnectionDatabase {
             try {
                 Class.forName("com.mysql.jdbc.Driver");
                
-                connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/latihan","root","topeko");
+                connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/latihan","ucup","xxxxxx");
                 
             } catch (ClassNotFoundException | SQLException ex) {
                 Logger.getLogger(ConnectionDatabase.class.getName()).log(Level.SEVERE, null, ex);

@@ -1,7 +1,7 @@
 /*
-* dibuat oleh Ucup Topeko
-* Web: www.timposu.com
-* Email : acobunglon@gmail.com
+* dibuat oleh Ucup Timposu
+* Blog: www.timposu.com
+* Email : ucup.timposu@gmail.com
 * Silahkan kode ini dipelajari dan dikembangkan..
 *
 **/

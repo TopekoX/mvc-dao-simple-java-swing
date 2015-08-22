@@ -1,7 +1,7 @@
 /*
-* dibuat oleh Ucup Topeko
-* Web: www.timposu.com
-* Email : acobunglon@gmail.com
+* dibuat oleh Ucup Timposu
+* Blog: www.timposu.com
+* Email : ucup.timposu@gmail.com
 * Silahkan kode ini dipelajari dan dikembangkan..
 *
 **/
@@ -16,7 +16,6 @@ import com.timposu.model.tabel.TabelModelMahasiswa;
 import com.timposu.view.PanelForm;
 import java.util.List;
 import javax.swing.JOptionPane;
-import javax.swing.table.TableModel;
 
 /**
  *
