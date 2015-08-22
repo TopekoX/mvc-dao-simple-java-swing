@@ -8,7 +8,7 @@ Project ini dibuat dengan Netbeans IDE dengan fitur CRUD menggunakan
 database MySQL
 
 
-![tampilan entry data](https://raw.githubusercontent.com/ucuptimposu/MVC-DAO-Simple-Java-Swing/tree/master/screenshoot/1.jpg) 
+![screenshoot](https://raw.githubusercontent.com/ucuptimposu/MVC-DAO-Simple-Java-Swing/master/screenshoot/1.png) 
 
 semoga bermanfaat.
 
