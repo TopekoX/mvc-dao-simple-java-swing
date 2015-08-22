@@ -10,6 +10,13 @@ database MySQL
 
 ![screenshoot](https://raw.githubusercontent.com/ucuptimposu/MVC-DAO-Simple-Java-Swing/master/screenshoot/1.png) 
 
+
+![screenshoot](https://raw.githubusercontent.com/ucuptimposu/MVC-DAO-Simple-Java-Swing/master/screenshoot/2.png)
+
+
+![screenshoot](https://raw.githubusercontent.com/ucuptimposu/MVC-DAO-Simple-Java-Swing/master/screenshoot/3.png)
+
+
 semoga bermanfaat.
 
 ucup.timposu[at]gmail[dot]com
